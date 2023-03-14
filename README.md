@@ -57,6 +57,6 @@ the csv. The sample output report (report.csv) will be provided to you in the zi
 4. Then apply migrations
    $ python manage.py migrate
 5. Now run development server on localhost
-   $ python manage.py runserver
+   ```$ python manage.py runserver```
     
     
