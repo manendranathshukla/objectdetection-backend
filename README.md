@@ -48,9 +48,9 @@ the csv. The sample output report (report.csv) will be provided to you in the zi
 
 
 ## How To Run App
-1. Take project in your local machine using below command:
+1. Clone project in your local machine using below command:
     ```
-    $ git pull https://github.com/manendranathshukla/objectdetection-backend.git
+    $ git clone https://github.com/manendranathshukla/objectdetection-backend.git
     $ cd objectdetection-backend
     ```
 2. Update the newly created db details in `objectdetectionappbackend/settings.py` file
