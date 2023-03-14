@@ -34,9 +34,9 @@ the csv. The sample output report (report.csv) will be provided to you in the zi
 
 
 ## UI Screenshots
-![Default Home View](Screenshot (142).png "Title")
+![Default Home View](Output1.png "Title")
 
-![Default Home View](Screenshot (143).png "Title")
+![Default Home View](Output2.png "Title")
 
 
 
