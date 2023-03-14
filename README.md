@@ -49,14 +49,22 @@ the csv. The sample output report (report.csv) will be provided to you in the zi
 
 ## How To Run App
 1. Take project in your local machine using below command:
+    ```
     $ git pull https://github.com/manendranathshukla/objectdetection-backend.git
     $ cd objectdetection-backend
+    ```
 2. Update the newly created db details in `objectdetectionappbackend/settings.py` file
 3. Install required libraries from `requirements.txt` file
+   ```
    $ pip install -r requirements.txt
+   ```
 4. Then apply migrations
+   ```
    $ python manage.py migrate
+   ```
 5. Now run development server on localhost
-   ```$ python manage.py runserver```
+   ```
+   $ python manage.py runserver
+   ```
     
     
